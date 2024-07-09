@@ -1,0 +1,10 @@
+{
+   "workbench.colorCustomizations": {
+      "statusBar.background": "#4964FA",
+      "statusBar.foreground": "#fff",
+      "statusBar.noFolderBackground": "#4964FA",
+      "editorLineNumber.activeForeground": "#00ffc8",
+      "minimap.background": "#00000000",
+      "scrollbar.shadow": "#00000000"
+   }
+}
